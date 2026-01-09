@@ -2,10 +2,10 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, fascinada por como as coisas funcionam “por trás dos bastidores”. Construindo uma base sólida em Infraestrutura de Redes e Segurança Digital, com foco em criar ambientes tecnológicos mais resilientes e protegidos. 🛡️🌐
 
-✉️ `santannakethey@gmail.com` 
+#### Contato: santannakethey@gmail.com
 
 
-# Desenvolvimento
+## Desenvolvimento
 
 <img 
     align="left" 
